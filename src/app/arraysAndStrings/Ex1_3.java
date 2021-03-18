@@ -1,4 +1,4 @@
-package app.ArraysAndStrings;
+package app.arraysAndStrings;
 
 public class Ex1_3 {
 

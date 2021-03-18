@@ -1,6 +1,6 @@
-package app.ArraysAndStrings;
+package app.arraysAndStrings;
 
-public class ArraysAndStrings_ex1 {
+public class Ex1_1 {
 
     public static void main(String[] args) {
         System.out.println(checkIfStringHasUniqueCharactersCICT("pepe"));

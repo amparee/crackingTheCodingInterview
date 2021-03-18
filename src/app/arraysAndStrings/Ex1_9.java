@@ -1,6 +1,6 @@
-package app.ArraysAndStrings;
+package app.arraysAndStrings;
 
-public class ArrStr_Ex1_9 {
+public class Ex1_9 {
 
     public static void main(String[] args) {
         String s1 = "waterbottle";
